@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Yun Pan WAP Redirect
+// @name         百度云盘WAP重定向
 // @description  重定向百度云盘的 WAP 页面到普通页面
 // @author       me
 // @version      0.2
